@@ -18,10 +18,10 @@ y usar el comando `node archivots.js`
 Si deseamos verlo en nuestro navegador, crear un archivo.html, con lo siguiente:
 
 
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html>
     <head><title>TypeScript</title></head>
     <body>
         <script src="archivots.js"></script>
     </body>
-</html>
+</html>`
